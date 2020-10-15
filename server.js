@@ -1,5 +1,5 @@
  
-const { promises } = require('dns');
+
 var http = require('http')
 var fs = require('fs').promises
 
